@@ -12,6 +12,8 @@ namespace _1
         public int AnoModelo;
         public float ValorVenda;
 
+        public Motor Motor;
+
         public Carro(string fabricante, string modelo, int anoFabricacao, int anoModelo, float valorVenda)
         {
             Fabricante = fabricante;

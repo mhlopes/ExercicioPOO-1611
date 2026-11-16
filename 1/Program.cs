@@ -23,8 +23,15 @@ for (int i = 0; i < 4; i++)
     int anoModelo = RandomNumberGenerator.GetInt32(1900, 2024);
     Console.WriteLine("\ndefina o valor de venda do carro {0}", i + 1);
     float valorVenda = RandomNumberGenerator.GetInt32(0, 100000);
+    Console.WriteLine("\ndefina o tipo do motor do carro {0}", i + 1);
+    string tipoMotor = RandomString();
+    Console.WriteLine("\ndefina a cilindrada do motor do carro {0}", i + 1);
+    int cilindradaMotor = RandomNumberGenerator.GetInt32(0, 10000);
+    Console.WriteLine("\ndefina a potência do motor do carro {0}", i + 1);
+    int potenciaMotor = RandomNumberGenerator.GetInt32(0, 1000);
 
     carros[i] = new Carro(fabricante, modelo, anoFabricacao, anoModelo, valorVenda);
+    carros[i].Motor = new Motor(tipoMotor, cilindradaMotor, potenciaMotor);
 
     Console.Clear();
 }
@@ -33,6 +40,8 @@ foreach (Carro carro in carros)
 {
     Console.WriteLine($"carro {Array.IndexOf(carros, carro) + 1}");
     Console.WriteLine(carro.GetCarro());
+    Console.WriteLine($"Motor: {carro.Motor.Tipo}, Cilindrada: {carro.Motor.Cilindrada}, Potência: {carro.Motor.Potencia}");
+    Console.WriteLine($"ipva: {carro.CalculoIpva()}");
     Thread.Sleep(2000);
     Console.WriteLine();
 }

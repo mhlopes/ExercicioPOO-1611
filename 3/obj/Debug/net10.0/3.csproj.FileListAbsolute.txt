@@ -1,0 +1,17 @@
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.exe
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.deps.json
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.runtimeconfig.json
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.dll
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\bin\Debug\net10.0\3.pdb
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.sourcelink.json
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.dll
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\refint\3.dll
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.pdb
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\ref\3.dll
+C:\Users\Matheus\source\repos\ExercicioPOO-1611\3\obj\Debug\net10.0\3.csproj.Up2Date
