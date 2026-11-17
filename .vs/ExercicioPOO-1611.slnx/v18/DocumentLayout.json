@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABD6DD83-4C32-000D-5776-34398106A11C}|1\\1.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD6DD83-4C32-000D-5776-34398106A11C}|1\\1.csproj|solutionrelative:1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74CDF4CF-2AD8-4199-88E4-DA744D0F499B}|3\\3.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CDF4CF-2AD8-4199-88E4-DA744D0F499B}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD6DD83-4C32-000D-5776-34398106A11C}|1\\1.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD6DD83-4C32-000D-5776-34398106A11C}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FC59B32-E72C-4181-B286-AAED7EE90DBA}|2\\2.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC59B32-E72C-4181-B286-AAED7EE90DBA}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC59B32-E72C-4181-B286-AAED7EE90DBA}|2\\2.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\2\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC59B32-E72C-4181-B286-AAED7EE90DBA}|2\\2.csproj|solutionrelative:2\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CDF4CF-2AD8-4199-88E4-DA744D0F499B}|3\\3.csproj|c:\\users\\matheuslopes\\source\\repos\\exerciciopoo-1611\\3\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CDF4CF-2AD8-4199-88E4-DA744D0F499B}|3\\3.csproj|solutionrelative:3\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +26,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\1\\Carro.cs",
-              "RelativeDocumentMoniker": "1\\Carro.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\1\\Carro.cs",
-              "RelativeToolTip": "1\\Carro.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwBkAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\3\\Livro.cs",
+              "RelativeDocumentMoniker": "3\\Livro.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\3\\Livro.cs",
+              "RelativeToolTip": "3\\Livro.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T16:37:09.257Z",
+              "WhenOpened": "2026-11-16T23:01:07.907Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\1\\Program.cs",
-              "RelativeDocumentMoniker": "1\\Program.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\1\\Program.cs",
-              "RelativeToolTip": "1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T14:12:18.32Z"
+              "WhenOpened": "2026-11-16T22:45:14.972Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:00:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\2\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "2\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\ExercicioPOO-1611\\2\\ContaBancaria.cs",
+              "RelativeToolTip": "2\\ContaBancaria.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T22:45:22.391Z",
+              "EditorCaption": ""
             }
           ]
         }
